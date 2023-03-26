@@ -1,0 +1,15 @@
+/home/namhk/workspace/dotnet/console/bin/Debug/net6.0/console
+/home/namhk/workspace/dotnet/console/bin/Debug/net6.0/console.deps.json
+/home/namhk/workspace/dotnet/console/bin/Debug/net6.0/console.runtimeconfig.json
+/home/namhk/workspace/dotnet/console/bin/Debug/net6.0/console.dll
+/home/namhk/workspace/dotnet/console/bin/Debug/net6.0/ref/console.dll
+/home/namhk/workspace/dotnet/console/bin/Debug/net6.0/console.pdb
+/home/namhk/workspace/dotnet/console/obj/Debug/net6.0/console.csproj.AssemblyReference.cache
+/home/namhk/workspace/dotnet/console/obj/Debug/net6.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/home/namhk/workspace/dotnet/console/obj/Debug/net6.0/console.AssemblyInfoInputs.cache
+/home/namhk/workspace/dotnet/console/obj/Debug/net6.0/console.AssemblyInfo.cs
+/home/namhk/workspace/dotnet/console/obj/Debug/net6.0/console.csproj.CoreCompileInputs.cache
+/home/namhk/workspace/dotnet/console/obj/Debug/net6.0/console.dll
+/home/namhk/workspace/dotnet/console/obj/Debug/net6.0/ref/console.dll
+/home/namhk/workspace/dotnet/console/obj/Debug/net6.0/console.pdb
+/home/namhk/workspace/dotnet/console/obj/Debug/net6.0/console.genruntimeconfig.cache
